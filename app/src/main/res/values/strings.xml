@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Laboration1</string>
+    <string name="main_greeting">Welcome visitor to this page!</string>
+    <string name="main_info">It is an app with short information about the sport football.
+        Click on the buttons below to read more about the app or to go directly to sign in.</string>
+    <string name="main_about_button">Go to About</string>
+    <string name="main_signin_button">Go to Sign In</string>
+    <string name="main_or">or</string>
+    <string name="image_about">Football text</string>
+
+    <string name="about_info">This is an app where you get more information about football.
+        First of all football is often considered by many as the biggest sport in the world.
+    Both from viewing and playing perspective. It is estimated that football have about 3,5 billions
+    fans around the world, according to several sources. The second biggest sport is cricket and
+        has around 2,5 billion fans.</string>
+    <string name="about_signin_button">Continue to Sign in</string>
+    <string name="about_goback_button">Go back to Home</string>
+
+    <string name="signingin_greeting">Please enter your login details!</string>
+    <string name="signingin_username">Username:</string>
+    <string name="signingin_password">Password:</string>
+    <string name="signingin_button">Sign in</string>
+
+    <string name="signiedin_greeting">Welcome user</string>
+    <string name="signiedin_about">For signing in, here are 3 historical events in football in images</string>
+    <string name="sports_ranking_description">Ranking of views for different sports</string>
+    <string name="maradona_description">Diego Maradonas famous hand goal</string>
+    <string name="zidane_description">Zinedine Zidanes famous headbutt</string>
+    <string name="greece_description">Greece winning the Euros 2004</string>
+
+</resources>
